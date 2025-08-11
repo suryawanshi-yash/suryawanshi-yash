@@ -6,13 +6,12 @@
 
 - 🔭 I’m currently learning *DSA*
 
-- 🌱 I’m currently mastering *Linux*
+- 🌱 I’m currently mastering *Cloud*
 
-- 👯 I’m looking to collaborate on *Web-development*
 
 - 🤝 I’m improving my *Competitive Skills*
 
-- 💬 Ask me about *C, C++, STL*
+- 💬 Ask me about *C, C++, STL,Python*
 
 - 📫 How to reach me *yashsuryawanshi277@gmail.com*
 
